@@ -63,7 +63,7 @@ scikit-learn==1.0.2
 scipy==1.8.0
 Send2Trash==1.8.0
 setuptools==58.0.4
-sip==4.19.13
+sip>=4.19.13
 six==1.16.0
 sklearn==0.0
 stack-data==0.2.0
