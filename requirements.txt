@@ -55,7 +55,7 @@ pyrsistent==0.18.0
 python-dateutil==2.8.2
 pytz==2022.1
 pywin32==302; platform_system == "Windows"
-pywinpty==2.0.2
+pywinpty
 pyzmq==22.3.0
 qtconsole==5.2.2
 QtPy==1.11.2
